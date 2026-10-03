@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weather-app-three-psi-70.vercel.app/sitemap.xml
